@@ -1,4 +1,4 @@
-## LDTS_1203 - Tick Tock Toe
+## LDTS_1203 - Tick Tock Toe (Grade 19.8 / 20)
 In this 2 player game we have a tic-tac-toe grid where each square has inside it a traditional game of tic-tac-toe.
 At first a player chooses in which smaller tic-tac-toe square it wants to play, after that,the next player
 is forced to play on the smaller game whose position on the bigger grid corresponds to the one played by the last player,
